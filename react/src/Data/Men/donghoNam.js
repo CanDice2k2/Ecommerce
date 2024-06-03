@@ -1,0 +1,122 @@
+export const donghoNam = [{
+        "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/39_MTP-V001L-1BUDF.jpg",
+        "brand": "Casio",
+        "title": "Casio Mặt Số 38mm, Kính Cứng, Chống Nước 3ATM",
+        "color": "Black",
+        "href": "product/15",
+        "description": "Mẫu Casio MTP-V001L-1BUDF phiên bản dây da đen có vân lịch lãm, thiết kế đơn giản 3 kim trên mặt số size 38mm, nền cọc số học trò kiểu dáng mỏng trẻ trung.",
+        "selling_price": "655000",
+        "price": "720007",
+        "disscount": "9%",
+        "size": ""
+    },
+    {
+        "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/MTP-V004GL-9AUDF-2.jpg",
+        "brand": "Casio",
+        "title": "Casio Mặt Số 41.5mm, Kính Cứng, Chống Nước 3ATM",
+        "color": "Yellow",
+        "href": "product/16",
+        "description": "Đồng hồ Casio MTP-V004GL-9AUDF với mặt đồng hồ tròn truyền thống, vỏ máy mạ vàng sang trọng, gạch số được phủ đen nổi bật trên nền số, dây đeo da nâu nam tính lịch lãm.",
+        "selling_price": "808000",
+        "price": "950000",
+        "disscount": "15%",
+        "size": ""
+    },
+    {
+        "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/F-91W-1HDG.jpg",
+        "brand": "Casio",
+        "title": "Casio Mặt Số 34mm, Bộ Bấm Giờ, Chống Nước 3ATM",
+        "color": "",
+        "href": "product/17",
+        "description": "Mẫu Casio F-201WA-9ADF dây đeo phiên bản dây cao su kiểu dáng năng động kết hợp với thiết kế nền mặt số lớn điện tử hiện thị đa chức năng giúp người dùng dễ quan sát.",
+        "selling_price": "638000",
+        "price": "750000",
+        "disscount": "15%",
+        "size": ""
+    },
+    {
+        "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/RA-AA0B02R19B.jpg",
+        "brand": "ORIENT",
+        "title": "Orient Mặt Số 41.7mm, Trữ Cót 40 Giờ, Hacking Second",
+        "href": "product/19",
+        "description": "Orient SK RA-AA0B02R19B mặt lửa huyền thoại tạo ấn tượng mạnh mẽ bằng mặt số kích thước lớn, form bất đối xứng độc đáo. Sử dụng bộ máy cơ sản xuất in-house trữ cót khoảng 40 giờ bền bỉ và chất lượng.",
+        "color": "",
+        "selling_price": "7600000",
+        "price": "8000000",
+        "disscount": "5% ",
+        "size": ""
+    },
+    {
+        "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/SG3007.4102CV.jpg",
+        "brand": "SRWATCH",
+        "title": "SR Mặt Số 40mm, Kính Sapphire, Chống Nước 5ATM",
+        "color": "",
+        "href": "product/20",
+        "description": "Mẫu SR SG3007.4102CV phiên bản đơn giản 3 kim trên nền mặt số trắng kích thước 40mm, điểm nổi bật với phần vỏ máy pin thiết kế trẻ trung chỉ dày 6mm.",
+        "selling_price": "998000",
+        "price": "1050000",
+        "disscount": "5%",
+        "size": ""
+    },
+    {
+        "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/NH8353-00H.jpg",
+        "brand": "CITIZEN",
+        "title": "Citizen  Mặt Số 40mm, Chống Nước 3ATM, Trữ Cót 40 Giờ",
+        "color": "",
+        "description": "Đồng hồ nam Citizen NH8353-00H có vỏ kim loại tạo vẻ chắc chắn, kim chỉ và vạch số la mã nổi bật trên nền đen, kết hợp với dây đeo bằng chất liệu da màu nâu đem lại phong cách cổ điển lịch lãm, nam tính cho phái mạnh.",
+        "href": "product/21",
+        "selling_price": "6030000",
+        "price": "6700000",
+        "disscount": "10% ",
+        "size": ""
+    },
+    // {
+    //     "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/SRPK17K1.jpg",
+    //     "brand": "SEIKO",
+    //     "title": "Seiko 5  (Cơ Tự Động) Mặt Số 39.5mm, Trữ Cót 41 Giờ",
+    //     "color": "",
+    //     "description": "Đồng hồ Seiko 5 Sports 55th Anniversary Limited Edition SRPK17K1 (phiên bản giới hạn kỷ niệm 55 năm) phong cách thể thao cổ điển, sử dụng bộ máy cơ in-house 4R36 trữ cót 41 giờ. Trang bị kính Hardlex Crystal độc quyền có độ chịu lực tốt hơn so với kính cứng thông thường. Dây đeo Twist-O-Flex độc đáo vô cùng bền bỉ. Đồng hồ giới hạn số lượng chỉ 40 chiếc phân phối chính hãng tại Việt Nam.",
+    //     "href": "product/14",
+    //     "selling_price": "12350000",
+    //     "price": "13000000",
+    //     "disscount": "5%",
+    //     "size": ""
+    // },
+    // {
+    //     "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/T137.410.16.041.00.jpg",
+    //     "brand": "TISSOT",
+    //     "title": "Tissot  Swiss Made, Khung Vỏ Tonneau, EOL Chỉ Báo Hết Pin",
+    //     "color": "",
+    //     "description": "Tissot PRX Quartz T137.410.16.041.00 phiên bản dây da bò tạo hình vân cá sấu màu xanh dương bắt mắt. Sử dụng bộ máy quartz Thụy Sỹ cho độ chính xác cao, hoạt động ổn định.",
+    //     "href": "product/14",
+    //     "selling_price": "9500000",
+    //     "price": "10000000",
+    //     "disscount": "5%",
+    //     "size": ""
+    // },
+    // {
+    //     "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/SG19191.4101.jpg",
+    //     "brand": "SRWATCH",
+    //     "title": "SR (Cơ Tự Động) Mặt Số 42mm, Japan Movt, Chống Nước 5ATM",
+    //     "color": "",
+    //     "description": "Mẫu SR SG19191.4101 phiên bản mặt kính chất liệu Sapphire với kích thước lớn 42mm, với thiết kế Skeleton (Cơ lộ máy) tạo nên điểm nổi bật độc đáo trên nền mặt số.",
+    //     "href": "product/14",
+    //     "selling_price": "7200000",
+    //     "price": "7200000",
+    //     "disscount": "0%",
+    //     "size": ""
+    // },
+    // {
+    //     "image": "https://image.donghohaitrieu.com/wp-content/uploads/2023/09/55_MTP-V006D-1BUDF.jpg",
+    //     "brand": "CASIO",
+    //     "title": "Casio Mặt Số 38mm, Kính Cứng, Chống Nước 3ATM",
+    //     "color": "",
+    //     "description": "Đồng hồ Casio MTP-V006D-1BUDF hoàn thiện bằng chất liệu kim loại sang trọng. Mặt số full đen trang trí bằng bộ số La Mã cổ điển, bộ kim chuyển động mượt mà nhờ bộ máy quartz Japan Movt.",
+    //     "href": "product/14",
+    //     "selling_price": "927000",
+    //     "price": "1030000",
+    //     "disscount": "10% off",
+    //     "size": ""
+    // }
+
+]
